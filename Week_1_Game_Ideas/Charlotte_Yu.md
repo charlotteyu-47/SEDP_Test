@@ -63,10 +63,10 @@
 ### Screenshot
 
 - Road Fighter (NES)
-  - ![alt text](<CY_Road_Fighter_Screenshot>)
+  - ![alt text](<CY_Road_Fighter_Screenshot.png>)
 
 - Crossy Road
-  - ![alt text](<CY_Crossy_Road_Screenshot>)
+  - ![alt text](<CY_Crossy_Road_Screenshot.png>)
 
 ### Website
 
@@ -129,4 +129,11 @@
    - Implementing "Chain Lightning" requires a recursive search (DFS/BFS) to find connected enemies. This must be optimized to prevent lag during large enemy waves.
 
 ### Screenshot
-### Website
+
+- Carrot Fantasy
+
+  - ![alt text](<CY_Carrot_Fantasy_Screenshot.png>)
+
+- Genshin Impact
+
+  - ![alt text](<CY_Genshin_Impact_Screenshot.png>)
