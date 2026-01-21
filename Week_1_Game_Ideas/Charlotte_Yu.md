@@ -1,11 +1,14 @@
-# Park Street Survivor
+# Charlotte's Ideas
 
-## Game Type
+## Park Street Survivor
+
+### Game Type
 
 - Vertical Scrolling Arcade
+
 - Survival Resource Management
 
-## Game Prototype
+### Game Prototype
 
 - Road Fighter
   - Vertical scrolling and obstacle avoidance
@@ -13,7 +16,7 @@
 - Crossy Road
   - Grid-based movement and voxel/pixel aesthetic
 
-## Description
+### Description
 
 - A satirical survival game simulating the daily struggle of a UoB student trying to reach the Merchant Venturers Building before a 9 AM lecture.(Could be any building ->Multiple maps)
 
@@ -27,7 +30,7 @@
 
 - The Choices: Players encounter random events like a homeless person asking for change or a Tesco offering a Meal Deal. They must decide: risk stopping to interact (restoring Mood/Stamina but losing Time) or ignore them to rush forward.
 
-## Added Idea Points
+### Added Idea Points
 
 1. Risk-Reward Interaction Mechanic
 
@@ -47,7 +50,7 @@
 
      - Noise-Cancelling Headphones: Automatically ignores negative social events (Promoters/Homeless) but blocks positive audio cues (Car horns).
 
-## Possible Possible Challenges
+### Possible Possible Challenges
 
 1. Complex State Management
 
@@ -57,7 +60,7 @@
 
    - Since p5.js lacks native UI components, creating a responsive HUD (Heads-up Display) for stats and floating interaction bars (e.g., "Buying... 50%") requires writing a custom UI Manager class from scratch.
 
-## Screenshot
+### Screenshot
 
 - Road Fighter (NES)
   - ![alt text](<CY_Road_Fighter_Screenshot>)
@@ -65,7 +68,7 @@
 - Crossy Road
   - ![alt text](<CY_Crossy_Road_Screenshot>)
 
-## Website
+### Website
 
 - Road Fighter (NES)
   - https://www.retrogames.cz/play_065-NES.php
@@ -75,20 +78,55 @@
 
 ---
 
-# Maze Building Tower Defense
+## Elemental Grove Defense
 
-## Game Type
-- Strategy
-- Pathfinding Simulation
-- Grid-based Puzzle
+### Game Type
 
-## Game Prototype
-- Desktop Tower Defense
+- Grid-based Strategy
 
-## Game description
-## Added Idea Points
-## Possible Challenges
-## Screenshot
-## Website
+- Tower Defense
 
+- Synergy Simulation
 
+### Game Prototype
+
+- Carrot Fantasy
+  - Inspiration for the isometric/2D grid layout, "cute" aesthetic, and the mechanic of destroying map obstacles for resources.
+
+- Genshin Impact
+  - Inspiration for the "Elemental Reaction" system (e.g., Water + Electricity = Chain Damage), where combining different types creates new effects.
+
+### Game description
+
+- Setting: The game is set in a "Cyber-Forest" being invaded by a "Mechanical Virus."
+
+- Objective: Players plant "Elemental Flora" (Towers) on a grid to stop waves of mechanical bugs from reaching the "Life Tree".
+
+- Unlike traditional tower defense games where the focus is on upgrading single towers, this game focuses on Placement Strategy and Synergy.
+
+- Basic Towers: Narcissus (Water/Slow), Sunflower (Fire/Burn), Thunder-Grass (Lightning/High Single Damage).
+
+- The Twist: Towers interact with their neighbors. Placing a Fire Tower next to a Water Tower doesn't just deal two types of damage; it triggers a "Vaporize" reaction, dealing AoE (Area of Effect) steam damage.
+
+### Added Idea Points
+
+1. Adjacency Synergy System (Graph-based Logic):
+
+   - Towers function as nodes in a graph. The game logic checks the neighbors of each tower every frame. If specific attributes match (e.g., Fire node next to Wind node), the attack strategy changes dynamically.
+
+2. Interactive Terrain modification:
+
+   - The map is filled with "Old Tech Junk" (obstacles). Destroying them not only grants currency (like Carrot Fantasy) but also alters the Terrain Property.
+
+### Possible Challenges
+
+1. Complexity of Interaction Rules
+
+   - Managing the rules for elemental combinations (e.g., Fire+Water, Water+Ice, Ice+Thunder) can lead to a messy Code.
+
+2. Graph Traversal for Chain Reactions
+
+   - Implementing "Chain Lightning" requires a recursive search (DFS/BFS) to find connected enemies. This must be optimized to prevent lag during large enemy waves.
+
+### Screenshot
+### Website
