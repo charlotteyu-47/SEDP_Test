@@ -60,10 +60,10 @@
 ## Screenshot
 
 - Road Fighter (NES)
-  - ![alt text](image.png)
+  - ![alt text](<CY_Road_Fighter_Screenshot>)
 
 - Crossy Road
-  - ![alt text](<Screenshot 2026-01-21 at 12.29.40.png>)
+  - ![alt text](<CY_Crossy_Road_Screenshot>)
 
 ## Website
 
@@ -90,4 +90,5 @@
 ## Possible Challenges
 ## Screenshot
 ## Website
+
 
