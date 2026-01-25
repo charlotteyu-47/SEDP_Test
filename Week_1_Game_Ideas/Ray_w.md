@@ -7,6 +7,12 @@ The primary aim of the project : learn, apply , and reflect on the principles of
 **Core Mechanics:** Players control a bird that moves vertically along the screen's axis, navigating through gaps between trees that scroll horizontally.<br>
 <img width="650" height="365" alt="image" src="https://github.com/user-attachments/assets/469ff1b2-9d6c-4a28-898e-b0f5d4237fbd" />
 
+**Added Idea Points：**  
+Unlike the linear, one-hit-death mechanic of the original Flappy Bird, our game introduces 360-degree freedom. The player controls a bird that can move on both X and Y axes with a sophisticated acceleration system (dash mechanics). Instead of an infinite loop, the game features structured levels where the camera follows the player through vertical shafts and horizontal tunnels (Metroidvania-style traversal). Furthermore, we are replacing the "instant death" state with a health and resilience system: collisions deplete HP but allow for recovery frames, shifting the focus from frustration to precision mastery.
+
+**Possible Challenges** 
+1. The Camera System and Coordinate Transformation
+2. Modularity in Scoring and Level Evaluation
 
 
 ## game 2: Tableturf Battle (from Splatoon 3)
@@ -16,6 +22,13 @@ Each block must connect to existing areas of their own colour, with the player c
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/84654fce-c1ab-4e76-9bab-a0dea74059e8" />
 Key mechanics explain that you may check the link below: 
 https://www.youtube.com/watch?v=a3UmoODEjis
+
+**Added Idea Points：**  
+[empty]
+
+**Possible Challenges**
+1. Intelligent AI Opponent
+2. The game’s decision rules may be quite complex, including boundary conditions, which may require the use of extensive graph algorithms.
 
 
 
