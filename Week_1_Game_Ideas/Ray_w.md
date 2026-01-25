@@ -22,7 +22,6 @@ https://www.youtube.com/watch?v=a3UmoODEjis
 ## game 3: Super Mario Bros
 **Genre:** 2D Platformer<br>
 **Core Mechanics:** Players leap between platforms, collect items, stomp on enemies, and reach the finish line.<br>
-<img width="745" height="928" alt="image" src="https://github.com/user-attachments/assets/5b67c98e-9f4a-435f-a4ce-a6e8e662264e" />
 <img width="900" height="501" alt="image" src="https://github.com/user-attachments/assets/b7deb321-ed96-4206-a2c9-364964c57b52" />
 <img width="900" height="501" alt="image" src="https://github.com/user-attachments/assets/fc69da13-2add-42fb-bdba-f1444b9a7413" />
 
