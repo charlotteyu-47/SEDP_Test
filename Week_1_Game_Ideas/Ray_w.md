@@ -13,6 +13,10 @@ The primary aim of the project : learn, apply , and reflect on the principles of
 **Genre:** turn-based strategy / Puzzle / Deck-building
 **Core Mechanics:** On a grid map, both sides compete to fill areas with colour by placing blocks of different shapes (similar to Tetris). 
 Each block must connect to existing areas of their own colour, with the player controlling the largest contiguous territory at the end being declared the winner.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/84654fce-c1ab-4e76-9bab-a0dea74059e8" />
+Key mechanics explain that you may check the link below: 
+https://www.youtube.com/watch?v=a3UmoODEjis
+
 
 
 ## game 3: Super Mario Bros
