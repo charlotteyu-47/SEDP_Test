@@ -22,12 +22,13 @@ Mechanics are cumulative but controlled to avoid overwhelming players.
 - **Two-Player Synchronisation:** Keeping both players’ interactions logically consistent—especially when mechanics affect one another—requires careful event handling and testing.
 **Feasible Implementation Scope:**  
 Focus on local two-player only (keyboard sharing), with fixed camera per level. One new mechanic per level and no combat system.
-
-
-![[Fireboy and Watergirl]](./Week_1_Game_Ideas/LP_Fireboy and Watergirl_Screenshot.jpg)
+|
+|
+![Fireboy and Watergirl](./Week_1_Game_Ideas/LP_Fireboy_and_Watergirl_Screenshot.jpg)
 Fireboy and Watergirl:
 https://fireboyandwatergirl.run/
-![[FEZ]](./Week_1_Game_Ideas/LP_FEZ_Screenshot.jpg)
+|
+![FEZ](./Week_1_Game_Ideas/LP_FEZ_Screenshot.jpg)
 FEZ Demo vedio:
 https://www.youtube.com/watch?v=JkEKAi2jaaE
 
@@ -54,11 +55,12 @@ https://www.youtube.com/watch?v=JkEKAi2jaaE
 - **Timed Skill and State Management:** Implementing periodic skill activation demands a reliable timing system. Managing overlapping states (e.g. cooldowns, invulnerability windows, collision changes) requires a clean, event-driven architecture. 
 **Feasible Implementation Scope:**  
 One hero NPC, one player-controlled monster, and a small number of enemy types per level. Focus on **AI behaviour, timing systems, and mechanic clarity**, rather than graphical complexity or multiplayer networking.
-
-
-![[Monolith]](./Week_1_Game_Ideas/LP_Monolith_Screenshot.jpg)
+|
+|
+![Monolith](./Week_1_Game_Ideas/LP_Monolith_Screenshot.jpg)
 Monolith:
 https://team-d-13.itch.io/monolithdemo
-![[Lemmings]](./Week_1_Game_Ideas/LP_Lemmings_Screenshot.jpg)
+|
+![Lemmings](./Week_1_Game_Ideas/LP_Lemmings_Screenshot.jpg)
 Lemmings vedio:
 https://www.youtube.com/watch?v=OjUYW1WBWFI
