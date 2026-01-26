@@ -1,4 +1,4 @@
-# Iza's Ideas
+# Craft & Life
 
 ### Game Type
 
