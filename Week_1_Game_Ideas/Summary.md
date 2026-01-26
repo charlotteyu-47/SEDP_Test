@@ -1,5 +1,5 @@
 ## Catalog
-- [Game 1: Balatro (Tarot Edition)](#game-1-balatro-tarot-edition)
+- [Game 1: Balatro](#game-1-balatro)
 - [Game 2: Craft & Life](#game-2-craft--life)
 - [Game 3: Elemental Grove Defense](#game-3-elemental-grove-defense)
 - [Game 4: Flappy Bird](#game-4-flappy-bird)
