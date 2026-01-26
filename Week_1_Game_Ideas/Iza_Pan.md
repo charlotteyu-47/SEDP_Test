@@ -2,6 +2,17 @@
 
 ### Game Type
 
+### Game description 
+
+### Added Idea Points 
+
+### Possible Challenges 
+### Screenshot
 
 
--https://www.minecraft.net/zh-hant
+### Website
+minecraft
+- https://www.minecraft.net/zh-hant
+  
+stardewvalley
+- https://www.stardewvalley.net/
