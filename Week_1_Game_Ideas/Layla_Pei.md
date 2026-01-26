@@ -24,10 +24,10 @@ Mechanics are cumulative but controlled to avoid overwhelming players.
 Focus on local two-player only (keyboard sharing), with fixed camera per level. One new mechanic per level and no combat system.
 
 
-![[LP_Fireboy and Watergirl_Screenshot.jpg]]
+![[Fireboy and Watergirl]](./Week_1_Game_Ideas/LP_Fireboy and Watergirl_Screenshot.jpg)
 Fireboy and Watergirl:
 https://fireboyandwatergirl.run/
-![[LP_FEZ_Screenshot.jpg]]
+![[FEZ]](./Week_1_Game_Ideas/LP_FEZ_Screenshot.jpg)
 FEZ Demo vedio:
 https://www.youtube.com/watch?v=JkEKAi2jaaE
 
@@ -56,9 +56,9 @@ https://www.youtube.com/watch?v=JkEKAi2jaaE
 One hero NPC, one player-controlled monster, and a small number of enemy types per level. Focus on **AI behaviour, timing systems, and mechanic clarity**, rather than graphical complexity or multiplayer networking.
 
 
-![[LP_Monolith_Screenshot.jpg]]
+![[Monolith]](./Week_1_Game_Ideas/LP_Monolith_Screenshot.jpg)
 Monolith:
 https://team-d-13.itch.io/monolithdemo
-![[LP_Lemmings_Screenshot.jpg]]
+![[Lemmings]](./Week_1_Game_Ideas/LP_Lemmings_Screenshot.jpg)
 Lemmings vedio:
 https://www.youtube.com/watch?v=OjUYW1WBWFI
