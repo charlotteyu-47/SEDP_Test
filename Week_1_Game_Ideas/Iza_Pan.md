@@ -50,6 +50,10 @@
 ### Possible Challenges
 - Accidentally causing damage to the environment may affect subsequent development, and an archive function can be established to address this issue.
 
+- A behavior-based identity system may lead to unexpected interpretations of player intent, potentially reducing players’ sense of control over their in-game identity.
+
+- Persistent world memory and evolving environments increase technical complexity and may impact performance, especially in large, heavily modified worlds.
+
 ### Screenshot
 - minecraft
 <img width="1536" height="812" alt="image" src="https://github.com/user-attachments/assets/6ad452ed-4edf-4166-a67b-68821b4cd5bd" />
