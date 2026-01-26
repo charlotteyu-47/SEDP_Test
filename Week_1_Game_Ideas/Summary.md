@@ -1,3 +1,16 @@
+## Catalog
+- [Game 1: Balatro (Tarot Edition)](#game-1-balatro-tarot-edition)
+- [Game 2: Craft & Life](#game-2-craft--life)
+- [Game 3: Elemental Grove Defense](#game-3-elemental-grove-defense)
+- [Game 4: Flappy Bird](#game-4-flappy-bird)
+- [Game 5: Park Street Survivor](#game-5-park-street-survivor)
+- [Game 6: Pico Park](#game-6-pico-park)
+- [Game 7: Plants vs. Zombies](#game-7-plants-vs-zombies)
+- [Game 8: Super Mario Bros](#game-8-super-mario-bros)
+- [Game 9: Tableturf Battle](#game-9-tableturf-battle)
+- [Game 10: The Strongest Support](#game-10-the-strongest-support)
+- [Game 11: Tower at the End](#game-11-tower-at-the-end)
+
 # Game 1: Balatro
 ## Game Type: Roguelike Card Game
 ## Game Prototype: Balatro
@@ -100,6 +113,8 @@ Carrot Fantasy, Genshin Impact screenshots (images referenced in original)
 1. Complexity of Interaction Rules - managing elemental combination rules
 2. Graph Traversal for Chain Reactions - implementing "Chain Lightning" with optimized recursive search
 
+## Links:
+(Not provided in original)
 
 ---
 
