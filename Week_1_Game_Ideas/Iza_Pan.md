@@ -56,9 +56,10 @@
 
 ### Screenshot
 - minecraft
-
+<img width="1538" height="812" alt="image" src="https://github.com/user-attachments/assets/55dfae8a-db92-4bfa-862b-72efe1f87520" />
 
 - stardewvalley
+<img width="1192" height="704" alt="image" src="https://github.com/user-attachments/assets/9b1670c8-46ad-4ac2-aceb-b382796e8b6f" />
 
 
 ### Website
