@@ -90,9 +90,9 @@ Continuously pierces the nearest zombie in the same lane. During Polar Night or 
 Suggested Values:
 Cost: 150 | Fast attack speed | Burst damage has an internal cooldown
 
-2.3 Defensive Plants
+3 Defensive Plants
 
-2.3.1 Frost Barricade
+3.1 Frost Barricade
 
 Mechanism:
 High durability. Zombies biting it accumulate Frostbite stacks; when fully stacked, their attack speed and movement speed are reduced.
@@ -102,7 +102,7 @@ Cost: 75
 Balance:
 Vulnerable to fire or melting effects; durability decreases faster during Polar Day melting phases.
 
-2.3.2 Aurora Beacon
+3.2 Aurora Beacon
 
 Mechanism:
 Illuminates a 3×3 area or an entire lane within fog. Illuminated zombies are marked, making them easier for plants to target (e.g., higher targeting priority).
@@ -174,3 +174,9 @@ Mitigation Strategies：
 Adopt a state-driven architecture (e.g., State Machines or ECS)
 Make all states visualized and debuggable
 Define clear state priorities (e.g., Terrain > Time > Unit State)
+
+### Screenshot
+<img width="2048" height="1536" alt="2" src="https://github.com/user-attachments/assets/e223efe4-71bc-4cb5-9fbe-9b26cc3fa5cd" />
+
+### website
+https://www.ea.com/games/plants-vs-zombies
