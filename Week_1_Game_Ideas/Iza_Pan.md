@@ -12,7 +12,7 @@
 - Single-player with Optional Co-op
 
 ### Game Prototype
-- minecraft
+- minecraft (Sandbox / Survival)
 
   1. 3D voxel-based open world
 
@@ -22,7 +22,7 @@
 
   4. Life System: Day–night cycle, seasons, weather
 
-- stardewvalley
+- stardewvalley (Life Simulation / Farming)
 
   1. Farming System: Soil preparation, seasonal crops, animal care
 
