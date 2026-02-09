@@ -1,8 +1,8 @@
 # level design
 通用规则： 
-  最大血量（不含护甲）= 5
-  buff: 速度提升/无视伤害护甲
-  同类buff/debuff效果不会叠加， 只会刷新时长
+  最大血量（不含护甲）= 5  
+  buff: 速度提升/无视伤害护甲  
+  同类buff/debuff效果不会叠加，只会刷新时长  
 
 
 ## 1. Obstacle System
