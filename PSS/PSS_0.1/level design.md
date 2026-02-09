@@ -50,7 +50,7 @@
 	**倒计时和血量位于画面左侧，并列在一起，buff条和倒计时平行，只在触发时出现。**
 
 ## 4.Each level  
-### level0: tutorial  
+### level 0: tutorial  
 **duration** : 180s  
 **allowed obstacles** : all  
 **phases** : 8   
@@ -79,10 +79,11 @@
 	- 主角立绘和对话框出现， os: 如果没有带头盔的话肯定会被撞得晕头转向的
 7. phases7：教学关完成
 	- 骑着scooter就直接到终点
-	- 出现结算页面
-		- 统计：
-			- 一共被撞N次
-			- 喝了N杯咖啡
+8. 出现结算页面
+	- 统计：
+		- 一共被撞N次
+		- 喝了N杯咖啡
+		- 幽默文案（Opt）
 
 
 
