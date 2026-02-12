@@ -23,7 +23,7 @@ All background assets are standard **1920x1080** resolution unless otherwise spe
 | **Asset Name**      | **Dimensions** | **Formal Description**                                                      |
 | ------------------- | -------------- | --------------------------------------------------------------------------- |
 | **main_player_run** | 70x150         | 4-frame running animation cycle for the protagonist.                        |
-| **portrait_player** | 380x80         | Dialogue portrait of the protagonist wearing a helmet and riding a scooter. |
+| **portrait_player** | 380x380         | Dialogue portrait of the protagonist wearing a helmet and riding a scooter. |
 | **portrait_npc1-5** | 380x380        | Dialogue portraits for various Non-Player Characters (NPCs).                |
 # 3. Obstacles & Power-ups
 
