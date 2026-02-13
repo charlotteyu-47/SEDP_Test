@@ -50,3 +50,11 @@ The gameplay area is divided into four lanes: Lanes 1 & 4 (Sidewalks, 200px) and
 |---|---|---|---|
 |**powerup_coffee**|96x96|Sidewalk|A coffee cup collectible.|
 |**powerup_scooter_empty**|140x160|Road|An unoccupied scooter collectible.|
+# 4. Backpack Items
+|**Asset Name**|**Dimensions**|**Formal Description**|
+|---|---|---|
+|**bag_vitamin**|N/A|Vitamin gummies|
+|**bag_tangle**|N/A|tangle|
+|**bag_earphone**|N/A|Noise cancel earphone.|
+|**bag_boots**|N/A|rain boots|
+|**bag_laptop**|N/A|Laptop.|
