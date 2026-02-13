@@ -43,7 +43,7 @@ The gameplay area is divided into four lanes: Lanes 1 & 4 (Sidewalks, 200px) and
 | **Asset Name**                | **Dimensions** | **Formal Description**                                          |
 | ----------------------------- | -------------- | --------------------------------------------------------------- |
 | **obstacle_promoter**         | 150x160        | An NPC actively distributing promotional flyers.                |
-| **obstacle_homeless_sitting** | 140x140        | A seated NPC representing a homeless individual.                |
+| **obstacle_homeless_sitting** | 200x200        | A seated NPC representing a homeless individual.                |
 | **obstacle_flyer**            | 810x970        | Item with three visual states: Intact, crumpled, and balled up. |
 ## Power-ups
 |**Asset Name**|**Dimensions**|**Lane**|**Description**|
