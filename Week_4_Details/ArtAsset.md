@@ -13,6 +13,7 @@ All background assets are standard **1920x1080** resolution unless otherwise spe
 | **Segment C**     | 1920x1080      | Academic zone: University facades, libraries, bookshops, and student union buildings.                       |
 | **bg_destination**         | 1920x1080      | The end of road, the Wills Memorial Building.                                                               |
 | **bg_dialogue**         | 1920x1080      | In library, player and NPC dialogue scene.                                                               |
+| **bg_news**         | 1920x1080      | News report on incident.                                                               |
 ## Dialogue & UI Backgrounds
 | **Asset Name**  | **Dimensions** | **Formal Description**                                           |
 | --------------- | -------------- | ---------------------------------------------------------------- |
