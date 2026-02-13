@@ -11,7 +11,7 @@ All background assets are standard **1920x1080** resolution unless otherwise spe
 | **Segment A**     | 1920x1080      | Urban commercial zone: Coffee shops, sandwich shops, newsagents, and banks.                                 |
 | **Segment B**     | 1920x1080      | Mixed-use zone: Restaurants, residential flats, modern glass offices, and alleyways.                        |
 | **Segment C**     | 1920x1080      | Academic zone: University facades, libraries, bookshops, and student union buildings.                       |
-| **Final**         | 1920x1080      | The end of road, the Wills Memorial Building.                                                               |
+| **bg_destination**         | 1920x1080      | The end of road, the Wills Memorial Building.                                                               |
 ## Dialogue & UI Backgrounds
 | **Asset Name**  | **Dimensions** | **Formal Description**                                           |
 | --------------- | -------------- | ---------------------------------------------------------------- |
