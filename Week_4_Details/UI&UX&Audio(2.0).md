@@ -98,7 +98,7 @@
 
 - level1 (Initial)
     background: static desk picture (1920 × 1080)  
-    bag (X:-196 Y:87, 768 × 768)
+    bag (X:-180 Y:75, 768 × 768)
     basic staff (right)
     Player can select an item to view its description, confirm with buttton or key
     Items cannot be used from this screen
@@ -110,32 +110,30 @@
 ### **5.1.6 Paused Screen:**
 
 - Semi-transparent overlay (darkens game)
-	Gameplay is frozen
-    Timer stops
-    Player input disabled
+	Gameplay is frozen, Timer stops, Player input disabled
     Background music continues playing while paused.
-- Volume & SFX adjustment
-	Bar
-- "Continue" button
-    Back to pervious Screen
-- "Restart " button
-    to Room Screen
-- "Help" button
-    to Help Screen
-- "Save" button
-    save game progres
-- "Exit" button
-    to Main Menu
+- Pause Block (X:282 Y:150, 1355 × 814)
+	- Volume & SFX adjustment
+    - "Continue" button
+        Back to pervious Screen
+    - "Restart " button
+        to Room Screen
+    - "Help" button
+        to Help Screen
+    - "Log" button
+        to Pause Screen-Log Page
+    - "Exit" butto
+        to Main Menu
 
 ### **5.1.7 Game Screen:**
 
 - Background: Game map (1920 × 1080)
 
 -  HUD
-    Item icon (X:1782 Y:36, 96 × 96)
-    Item-block  (X:1782 Y:36, 96 × 96)
-    Health bar (X:1782 Y:36, 96 × 96)
-    Progres bar (X:1782 Y:36, 96 × 96)
+    Item icon (X:-15 Y:-15, 188 × 188)
+    Item-block  (X:25 Y:36, 138 × 138)
+    Health bar (X:151 Y:54, 404 × 102)
+    Progres bar (X:36 Y:295, 523 × 70)
 - "Pause" button (X:1782 Y:36, 96 × 96)
     to Paused Screen
 
@@ -146,12 +144,10 @@
 - Final score display (below text)
 	Final progress percentage is displayed with bar
 	xx% right on the bar
-- "Retry" button (256 × 96)
+- "Retry" button (X:597 Y:677, 301 × 115)
     to Room Screen
-- "Exit" button (256 × 96)
+- "Exit" button (X:1034 Y:677, 301 × 115)
     to Time Screen
-- "Save" button
-    save game progres
 
 ### **5.1.9 Game Victory Screen:**
 
@@ -162,14 +158,12 @@
 	how many homeless you met
 	how many vehicles you hit
 	...
-- "Continue" button
+- "Continue" button (X:424 Y:681, 301 × 115)
     to Time Screen
-- "Retry" button (256 × 96)
+- "Retry" button (X:816 Y:677, 301 × 115)
     to Room Screen
-- "Exit" button (256 × 96)
+- "Exit" button (X:1208 Y:677, 301 × 115)
     to Time Screen
-- "Save" button
-    save game progres
 
 ### **5.1.10 Game Victory Animation:**
 
